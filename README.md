@@ -1,4 +1,4 @@
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/FabrizioFerroni/FabrizioFerroni/main/banner.png" alt="banner" />
 <h1 align="center">Hola 👋, soy Fabrizio Ferroni</h1>
 <h3 align="center">Un apasionado por la programacion y la informatica.</h3>
 
